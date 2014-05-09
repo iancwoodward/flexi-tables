@@ -38,14 +38,18 @@ flexi-tables
                                   [content from the 2nd td tag in the data set] 
                               </th>
   
-  Built in CSS classes —
-    .flexiTableTitle      (The <th> for the sub-tables created when the table is collapsed.)
-    .flexiTableDeliniator (A <span> surrounding the spacers between content in the custom header, these can be empty.)
-    .flexiTableLabel      (<th> tags with display:block and float:left to act as a <td> when the table is collapsed.)
-    
-  Features to be added —
-    - ie8 support (intent is for the plugin to degrade gracefully)
-    - fixed headers for full width and collapsed views
-    - data shuffling / content sorting for full width and collapsed views
+  <strong>Built in CSS classes —</strong>
+    <ul>
+      <li><strong>.flexiTableTitle</strong>  (The <th> for the sub-tables created when the table is collapsed.)</li>
+      <li><strong>.flexiTableDeliniator</strong> (A ```<span>``` surrounding the spacers between content in the custom header, these can be empty.)</li>
+      <li><strong>.flexiTableLabel</strong> (```<th>``` tags with display:block and float:left to act as a ```<td>``` when the table is collapsed.)</li>
+    </ul>
+  
+  <strong>Features to be added —</strong>
+    <ul>
+      <li>ie8 support (intent is for the plugin to degrade gracefully)</li>
+      <li>fixed headers for full width and collapsed views</li>
+      <li>data shuffling / content sorting for full width and collapsed views</li>
+    </ul>
     
     
