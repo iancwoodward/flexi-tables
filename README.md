@@ -1,8 +1,8 @@
 flexi-tables
 ============
 
-A JQuery Plugin for Responsive HTML Tables
-(This was developed with JQuery 1.11.0 but will probably work with most versions below that.)
+<h4>A JQuery Plugin for Responsive HTML Tables</h4>
+<em>(This was developed with JQuery 1.11.0 but will probably work with most versions below that.)</em>
 
   This plugin is designed to make HTML tables fully responsive by wrapping information into a single column at a specified window width. It is meant to be very generic in nature so can be easily applied to just about any kind of data set, whether very simple or very complex, and can even be applied to multiple tables on a single page.
 
