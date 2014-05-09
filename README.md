@@ -23,9 +23,12 @@ flexi-tables
         and second ```<td>``` element then  ---> ```<table data-flexi-table="0, 1">``` [Note that these are based on array index 
         values so they start at '0'])
       </li>
-      - To add deliniators between ```<td>``` content that is placed in the custom headers add a data tag of flexi-deliniator.
+      <li>
+        To add deliniators between ```<td>``` content that is placed in the custom headers add a data tag of flexi-deliniator.
         You can give it a value equal to the type of deliniator you want between each content set, or leave it blank to add
         extra space between them with no character between.
+      </li>
+    </ul>
         
         This --->             <table data-flexi-table="0, 1" data-flexi-deliniator="|">
           
@@ -34,7 +37,6 @@ flexi-tables
                                       <span class="flexiTableDeliniator">|</span> 
                                   [content from the 2nd td tag in the data set] 
                               </th>
-    </ul>
   
   Built in CSS classes —
     .flexiTableTitle      (The <th> for the sub-tables created when the table is collapsed.)
