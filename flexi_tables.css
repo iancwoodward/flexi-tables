@@ -1,0 +1,24 @@
+table[data-flexi-table] .flexiTableLabel, 
+table[data-flexi-table] .flexiTableTitle,
+table[data-flexi-table] tr th span.flexiTableDeliniator:last-child { display: none; }
+
+@media only screen and (max-width: 40em) { 
+	table[data-flexi-table], 
+	table[data-flexi-table] tbody, 
+	table[data-flexi-table] tr, 
+	table[data-flexi-table] td,
+	table[data-flexi-table] .flexiTableTitle { display: block; }
+
+	table[data-flexi-table] thead, 
+	table[data-flexi-table] .flexiTable_hideSmall,
+	table[data-flexi-table] .flexiTable_hideSmall.flexiTableLabel { display: none; }
+	
+	table[data-flexi-table] .flexiTableLabel { 
+		clear: left;
+		display: block; 
+		float: left;
+		padding-right: 20px;
+		text-align: left;
+		width: 40%;
+	}
+}
