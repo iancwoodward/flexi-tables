@@ -4,15 +4,17 @@ flexi-tables
 A JQuery Plugin for Responsive HTML Tables
 (This was developed with JQuery 1.11.0 but will probably work with most versions below that.)
 
-  This plugin is designed to make HTML tables fully responsive by wrapping information into a single column at a specified 
-  window width. It is meant to be very generic in nature so can be easily applied to just about any kind of data set,
-  whether very simple or very complex, and can even be applied to multiple tables on a single page.
+  This plugin is designed to make HTML tables fully responsive by wrapping information into a single column at a specified window width. It is meant to be very generic in nature so can be easily applied to just about any kind of data set, whether very simple or very complex, and can even be applied to multiple tables on a single page.
+  
+  This plugin is designed to make HTML tables fully responsive.
 --------------------------------------------------------------------------------------------------------------------------
 
-  Files Required — 
-    flexi_tables.css
-    flexi_tables.js
-  
+  <strong>Files Required — </strong>
+    <ul>
+      <li>flexi_tables.css</li>
+      <li>flexi_tables.js</li>
+    </ul>
+    
   To make a flexi-table start with a semantic HTML table, the table can have a table header but it is not required. 
     - In the <table> tag add a data attribute of flexi-table. ---> <table data-flexi-table>
     - To define custom headers for the collapsed table, give the flexi-table data tag comma deliniated values 
