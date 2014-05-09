@@ -12,6 +12,8 @@ flexi-tables
       <li>flexi_tables.js</li>
     </ul>
     
+  <hr>
+  
   <h6>To make a flexi-table start with a semantic HTML table</h6>
     <ul>
       <li>
@@ -37,6 +39,8 @@ flexi-tables
                                       <span class="flexiTableDeliniator">|</span> 
                                   [content from the 2nd td tag in the data set] 
                               </th>
+                              
+  <hr>
   
   <strong>Built in CSS classes —</strong>
     <ul>
