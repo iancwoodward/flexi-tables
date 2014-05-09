@@ -2,7 +2,8 @@ flexi-tables
 ============
 
 <h4>A JQuery Plugin for Responsive HTML Tables</h4>
-<em>(This was developed with JQuery 1.11.0 but will probably work with most versions below that.)</em>
+* Click here to use the [Live Demo](http://iancwoodward.github.io/flexi-tables/)
+* <em>(This was developed with JQuery 1.11.0)</em>
 
 <img src="https://cloud.githubusercontent.com/assets/6035870/2924638/2770b918-d739-11e3-9dca-0e11edf953c3.jpg">
 
