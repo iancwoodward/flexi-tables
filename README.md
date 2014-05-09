@@ -40,9 +40,9 @@ flexi-tables
   
   <strong>Built in CSS classes —</strong>
     <ul>
-      <li><strong>.flexiTableTitle</strong>  (The <th> for the sub-tables created when the table is collapsed.)</li>
-      <li><strong>.flexiTableDeliniator</strong> (A ```<span>``` surrounding the spacers between content in the custom header, these can be empty.)</li>
-      <li><strong>.flexiTableLabel</strong> (```<th>``` tags with display:block and float:left to act as a ```<td>``` when the table is collapsed.)</li>
+      <li><em>.flexiTableTitle</em> (The <th> for the sub-tables created when the table is collapsed.)</li>
+      <li><em>.flexiTableDeliniator</em> (A ```<span>``` surrounding the spacers between content in the custom header, these can be empty.)</li>
+      <li><em>.flexiTableLabel</em> (```<th>``` tags with display:block and float:left to act as a ```<td>``` when the table is collapsed.)</li>
     </ul>
   
   <strong>Features to be added —</strong>
